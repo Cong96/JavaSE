@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nba SYSTEM "nba.dtd">
+<nba>
+<team>
+<name>LAKERS</name>
+<allstar>
+<name>KOBE</name>
+<salary>300000</salary>
+<number>24</number>
+</allstar>
+<rank>14</rank>
+<keyplayer>
+<name>KOBE</name>
+<salary>300000</salary>
+<number>24</number>
+</keyplayer>
+</team>
+</nba>

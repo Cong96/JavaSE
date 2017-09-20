@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT nba(team+)>
+<!ELEMENT team(name,allsalary,allstar*,rank,keyplayer+)>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT allstar(name,salary,number)>
+<!ELEMENT rank(#PCDATA)>
+<!ELEMENT　keyplayer(name,salary,number)>
+<!ATTLIST　team age CDATA #REQUIRED>
